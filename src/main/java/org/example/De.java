@@ -1,2 +1,5 @@
-package org.example;public class De {
+package org.example;
+
+public interface De {
+    public int lancer();
 }
